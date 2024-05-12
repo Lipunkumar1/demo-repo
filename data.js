@@ -11,8 +11,11 @@ const data = {
     },
     {
       title: "Level 2 badge",
-      description:
-        "Get the Level 2 badge before 31st Dec 2024",
+      description: "Get the Level 2 badge before 31st Dec 2024",
+    },
+    {
+      title: "Top rated badge",
+      description: "Get Top rated badge badge before 31st Dec 2024",
     },
   ],
 };
