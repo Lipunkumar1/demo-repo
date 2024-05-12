@@ -33,9 +33,3 @@ const fetchUsers = async (cb) => {
 fetchUsers((data) => {
   console.log(data);
 });
-
-// Call the functions and log the results to the console
-console.log(add(2, 3)); // Output: 5
-console.log(getLength("Hello, world!")); // Output: 13
-console.log(removeOdds([1, 2, 3, 4, 5, 6])); // Output: [2, 4, 6]
-console.log(sayHello(100)); // Output: "HelloHelloHello"
