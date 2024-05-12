@@ -9,5 +9,10 @@ const data = {
       description:
         "Learn to collaborate and contribute to opensource on Github",
     },
+    {
+      title: "Level 2 badge",
+      description:
+        "Get the Level 2 badge before 31st Dec 2024",
+    },
   ],
 };
