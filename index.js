@@ -18,3 +18,18 @@ function sayHello(num) {
   return "Hello".repeat(num);
 }
 
+// Fetch users data from json placeholder api
+
+const fetchUsers = async (cb) => {
+  try {
+    const response = await fetch("https://jsonplaceholder.typicode.com/users");
+    const data = await response.json();
+    cb(data);
+  } catch (error) {
+    console.log(error);
+  }
+};
+
+fetchUsers((data) => {
+  console.log(data);
+});
