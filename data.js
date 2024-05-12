@@ -17,5 +17,13 @@ const data = {
       title: "Top rated badge",
       description: "Get Top rated badge badge before 31st Dec 2024",
     },
+    {
+      title: "Top rated badge",
+      description: "Get Top rated badge badge before 31st Dec 2024",
+    },
+    {
+      title: "The biggest enemy",
+      description: "Internal resistance",
+    },
   ],
 };
