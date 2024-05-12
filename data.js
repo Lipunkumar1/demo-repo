@@ -9,5 +9,9 @@ const data = {
       description:
         "Learn to collaborate and contribute to opensource on Github",
     },
+    {
+      title: "Toprated on Upwork",
+      description: "Top rated plus on Upwork and Top rated on Fiverr",
+    },
   ],
 };
